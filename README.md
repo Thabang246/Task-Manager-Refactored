@@ -1,7 +1,7 @@
 # Capstone-Project-III
 The previous Capstone project II, was a simple task management system that stored data in text files. This project, has been modified to use lists , dictionaries and functions to extend the functionality of the previous Capstone Project.
 
-## The following functions has been added :
+## The following functions have been added :
 - ‘r’ to register a user.
 - ‘a’ to add a new task.
 - ‘va’ to view all the tasks listed in ‘tasks.txt’.
